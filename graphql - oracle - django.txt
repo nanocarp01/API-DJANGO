@@ -1,3 +1,5 @@
-https://www.youtube.com/watch?v=-0uxxht4mko
-https://www.youtube.com/watch?v=M4yNrJtoLE4
-https://uniwebsidad.com/libros/django-1-0/capitulo-16/integracion-con-una-base-de-datos-existente
+https://www.youtube.com/watch?v=-0uxxht4mko   //graphql + django
+https://www.youtube.com/watch?v=M4yNrJtoLE4   // oracle + django
+https://uniwebsidad.com/libros/django-1-0/capitulo-16/integracion-con-una-base-de-datos-existente // oracle + django
+https://www.youtube.com/watch?v=sIRcN0MeZVU // clone uber
+
