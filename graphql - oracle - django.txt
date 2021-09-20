@@ -5,4 +5,5 @@ https://www.youtube.com/watch?v=sIRcN0MeZVU // clone uber
 https://www.youtube.com/watch?v=hF_VMWnsY00 // proyectos JS
 https://www.youtube.com/watch?v=wN-88aIx8SM api con django y token
 https://www.it-swarm-es.com/es/django/django-2-como-registrar-un-usuario-usando-confirmacion-por-correo-electronico-y-cbv/838610218/
+https://contraslash.github.io/blog_legacy/30-user-registration-and-email-confirmation-in-django/
 
