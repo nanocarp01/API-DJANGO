@@ -3,4 +3,5 @@ https://www.youtube.com/watch?v=M4yNrJtoLE4   // oracle + django
 https://uniwebsidad.com/libros/django-1-0/capitulo-16/integracion-con-una-base-de-datos-existente // oracle + django
 https://www.youtube.com/watch?v=sIRcN0MeZVU // clone uber
 https://www.youtube.com/watch?v=hF_VMWnsY00 // proyectos JS
+https://www.youtube.com/watch?v=wN-88aIx8SM api con django y token
 
