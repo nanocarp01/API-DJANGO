@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=wN-88aIx8SM api con django y token
 https://www.it-swarm-es.com/es/django/django-2-como-registrar-un-usuario-usando-confirmacion-por-correo-electronico-y-cbv/838610218/
 https://contraslash.github.io/blog_legacy/30-user-registration-and-email-confirmation-in-django/
 https://hasurahq.medium.com/top-graphql-errors-and-how-to-fix-them-cdd7be5fcb9e
+https://www.youtube.com/watch?v=pyV2_F9wlk8 //GraphQL User Registration and Authentication with JWT Backend
