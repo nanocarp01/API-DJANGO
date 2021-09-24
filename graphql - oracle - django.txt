@@ -10,3 +10,5 @@ https://hasurahq.medium.com/top-graphql-errors-and-how-to-fix-them-cdd7be5fcb9e
 https://www.youtube.com/watch?v=pyV2_F9wlk8 //GraphQL User Registration and Authentication with JWT Backend
 https://www.youtube.com/watch?v=3IWQoxptMaw // bot whatsapp
 https://alfaexploit.com/es/posts/django_registro_y_autenticacion_de_usuarios/
+https://cosasdedevs.com/posts/registro-y-autenticacion-con-django-rest-framework/
+https://cosasdedevs.com/python/
