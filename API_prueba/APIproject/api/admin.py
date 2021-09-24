@@ -1,7 +1,7 @@
 from django.contrib import admin
-from .models import APIad
+from .models import API
 
 
-admin.site.register(APIad)
+admin.site.register(API)
 
 
